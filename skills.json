@@ -94,6 +94,13 @@
           "description": "MotionGit 模板合集：技术资料、素材要求、GitHub 地址与完整 Demo 视频"
         },
         {
+          "name": "video-talkcraft",
+          "repo": "Vincentwei1021/video-talkcraft",
+          "url": "https://github.com/Vincentwei1021/video-talkcraft",
+          "type": "github",
+          "description": "面向口播讲解视频的动效工作室 Skill：词级配音同步、109 套动效配方卡、反幻灯片镜头系统与 Remotion 渲染"
+        },
+        {
           "name": "Motion Array",
           "repo": "",
           "url": "https://motionarray.com/",
