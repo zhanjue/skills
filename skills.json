@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "frontend",
+      "name": "前端与 UI 设计 (Frontend & UI)",
+      "items": [
+        {
+          "name": "impeccable",
+          "repo": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "type": "github",
+          "description": "高质量前端与设计品味规范、审美与界面优化 Skill"
+        },
+        {
+          "name": "garden-skills",
+          "repo": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "type": "github",
+          "description": "包含 web-design-engineer、beautiful-article、motion-showreel、web-video-presentation、gpt-image-2、kb-retriever 等实用 Skill 合集"
+        },
+        {
+          "name": "taste-skill",
+          "repo": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "type": "github",
+          "description": "提升 AI 生成前端 UI 审美与交互质感的品味指南 Skill"
+        },
+        {
+          "name": "hallmark",
+          "repo": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "type": "github",
+          "description": "前端设计质量评估与 UI 精修 Skill"
+        },
+        {
+          "name": "astryx",
+          "repo": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "type": "github",
+          "description": "Meta 开源插件与前端工程化 Skill"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "封面与视觉设计 (Cover & Poster Design)",
+      "items": [
+        {
+          "name": "qiaomu-mondo-poster-design",
+          "repo": "joeseesun/qiaomu-mondo-poster-design",
+          "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
+          "type": "github",
+          "description": "Mondo 风格海报与视频封面设计 Skill（含提示词参考与生成脚本）"
+        }
+      ]
+    },
+    {
+      "id": "ae",
+      "name": "AE 动效与 AI 剪辑 (Motion & Video Editing)",
+      "items": [
+        {
+          "name": "hyperframes",
+          "repo": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "type": "github",
+          "description": "HeyGen 开源的视频制作与动效框架（内置 hyperframes、media-use、remotion-to-hyperframes、reverse-any-video、slideshow、style-sampling 等 Skill）"
+        },
+        {
+          "name": "agent-video-pipeline",
+          "repo": "jimaofeishangtian-ai/agent-video-pipeline",
+          "url": "https://github.com/jimaofeishangtian-ai/agent-video-pipeline",
+          "type": "github",
+          "description": "ChatCut × HyperFrames × Seedance × Remotion 可编辑自动剪辑 Skill"
+        },
+        {
+          "name": "creator-resources",
+          "repo": "jimaofeishangtian-ai/creator-resources",
+          "url": "https://github.com/jimaofeishangtian-ai/creator-resources",
+          "type": "github",
+          "description": "鸡毛灰上天分享资料：数字人、语义动效（remotion-semantic-effects）、四人圆桌（life-decision-roundtable）及工具教程"
+        },
+        {
+          "name": "adu-motion-video",
+          "repo": "adunext/adu-motion-video",
+          "url": "https://github.com/adunext/adu-motion-video",
+          "type": "github",
+          "description": "阿杜的 AI 剪辑 Skill，升级为 MotionGit .motion 开放格式，适合口播与知识讲解的代码级动画模板"
+        },
+        {
+          "name": "motiontemplates-all",
+          "repo": "motiontemplates/all",
+          "url": "https://github.com/motiontemplates/all",
+          "type": "github",
+          "description": "MotionGit 模板合集：技术资料、素材要求、GitHub 地址与完整 Demo 视频"
+        },
+        {
+          "name": "Motion Array",
+          "repo": "",
+          "url": "https://motionarray.com/",
+          "type": "website",
+          "description": "一站式视频与影视创作者素材平台（AE 模板、动效、音效、转场等参考资源）"
+        }
+      ]
+    }
+  ]
+}

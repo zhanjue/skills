@@ -1,0 +1,9 @@
+# 忽略本地拉取的第三方仓库源码，只提交分类清单与脚本
+ae/*/
+design/*/
+frontend/*/
+writing/*/
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
