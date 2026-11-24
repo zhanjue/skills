@@ -1,6 +1,19 @@
 {
   "categories": [
     {
+      "id": "custom",
+      "name": "自研与元技能 (Custom & Meta Skills)",
+      "items": [
+        {
+          "name": "skill-creator",
+          "repo": "",
+          "url": "./custom/skill-creator/SKILL.md",
+          "type": "local",
+          "description": "创建与迭代 Skill 的元技能（SOP 工作说明书方法论：双路径设计、成熟工具精准移植、四层解耦与删旧替新规则审计）"
+        }
+      ]
+    },
+    {
       "id": "frontend",
       "name": "前端与 UI 设计 (Frontend & UI)",
       "items": [

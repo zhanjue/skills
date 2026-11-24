@@ -28,6 +28,10 @@ foreach ($cat in $Categories) {
 
     Write-Host "`n=== $($cat.name) ($($cat.id)/) ===" -ForegroundColor Cyan
     foreach ($item in $items) {
+        if ($item.type -eq "local") {
+            Write-Host "  [本地自研] $($item.name) -> $($item.url)" -ForegroundColor Magenta
+            continue
+        }
         if ($item.type -ne "github" -or -not $item.repo) {
             Write-Host "  [链接] $($item.name) -> $($item.url)" -ForegroundColor DarkGray
             continue

@@ -67,6 +67,10 @@ function main() {
     console.log(`\n=== ${cat.name} (${cat.id}/) ===`);
 
     for (const item of items) {
+      if (item.type === 'local') {
+        console.log(`  [本地自研] ${item.name} -> ${item.url}`);
+        continue;
+      }
       if (item.type !== 'github' || !item.repo) {
         console.log(`  [链接] ${item.name} -> ${item.url}`);
         continue;

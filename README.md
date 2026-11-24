@@ -13,10 +13,20 @@
 ├── scripts/
 │   ├── sync-skills.js   # Node.js 跨平台一键拉取/更新脚本（推荐，免 PS 执行策略限制）
 │   └── sync-skills.ps1  # PowerShell 同步脚本
+├── custom/              # 自研/沉淀的原创 Skill（直接纳入 Git 版本控制）
+│   └── skill-creator/   # 创建与迭代 Skill 的元技能（SOP 工作说明书模式）
 ├── frontend/            # 前端与 UI 设计类 Skill（本地拉取目录，已加入 .gitignore）
 ├── design/              # 封面与视觉设计类 Skill（本地拉取目录，已加入 .gitignore）
 └── ae/                  # AE 动效与 AI 剪辑类 Skill（本地拉取目录，已加入 .gitignore）
 ```
+
+---
+
+## 零、自研核心 Skill (`custom/`)
+
+| 名称 | 路径 | 简介 |
+|---|---|---|
+| **skill-creator** | [`custom/skill-creator`](./custom/skill-creator/SKILL.md) | **创建 Skill 的元技能（SOP 工作说明书方法论）**：先梳理 SOP 再写 `SKILL.md`；支持「先跑通再沉淀」与「五要素搭框架+实测迭代」双模式；内置成熟工具三步精准移植、四层目录分离（`SKILL.md` / `references` / `scripts` / `assets`）与删旧替新健康度审计脚本 |
 
 ---
 
