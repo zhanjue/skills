@@ -101,6 +101,13 @@
           "description": "面向口播讲解视频的动效工作室 Skill：词级配音同步、109 套动效配方卡、反幻灯片镜头系统与 Remotion 渲染"
         },
         {
+          "name": "video-shotcraft",
+          "repo": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "type": "github",
+          "description": "面向产品宣传片的 AI 视频 Skill：Remotion 渲染、124 套镜头配方卡、150 个动效预览、节拍同步、音效设计与剪映导出"
+        },
+        {
           "name": "Motion Array",
           "repo": "",
           "url": "https://motionarray.com/",
