@@ -121,6 +121,13 @@
           "description": "面向产品宣传片的 AI 视频 Skill：Remotion 渲染、124 套镜头配方卡、150 个动效预览、节拍同步、音效设计与剪映导出"
         },
         {
+          "name": "openfilm",
+          "repo": "openfilm/openfilm",
+          "url": "https://github.com/openfilm/openfilm",
+          "type": "github",
+          "description": "开源 AI 视频 Agent：将任意 Coding Agent 转化为视频创作 Agent，并配备可随时修改生成结果的可视化编辑器"
+        },
+        {
           "name": "Motion Array",
           "repo": "",
           "url": "https://motionarray.com/",

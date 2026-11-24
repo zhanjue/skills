@@ -61,6 +61,7 @@
 | **motiontemplates-all** | [motiontemplates/all](https://github.com/motiontemplates/all) | MotionGit 模板合集：技术资料、素材要求、GitHub 地址与完整 Demo 视频 |
 | **video-talkcraft** | [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft) | 面向口播讲解视频的动效工作室 Skill：词级配音同步、109 套动效配方卡、反幻灯片镜头系统与 Remotion 渲染 |
 | **video-shotcraft** | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 面向产品宣传片的 AI 视频 Skill：Remotion 渲染、124 套镜头配方卡、150 个动效预览、节拍同步、音效设计与剪映导出 |
+| **openfilm** | [openfilm/openfilm](https://github.com/openfilm/openfilm) | 开源 AI 视频 Agent：将任意 Coding Agent 转化为视频创作 Agent，并配备可随时修改生成结果的可视化编辑器 |
 | **Motion Array** | [motionarray.com](https://motionarray.com/) | 一站式视频与影视创作者素材平台（AE 模板、动效、音效、转场等参考资源） |
 
 ---
